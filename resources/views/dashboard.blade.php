@@ -11,6 +11,8 @@
                 <div class="p-6 text-gray-900 dark:text-gray-100">
                     {{ __("You're logged in!") }}
                 </div>
+
+                <button href="{{route('test')}}" class="bg-blue-900  text-white py-2 px-8 rounded-lg ml-4 mb-4">Nigga!</button>
             </div>
         </div>
     </div>
